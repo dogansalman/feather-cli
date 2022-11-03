@@ -7,7 +7,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name = 'feather',
-    version = '0.0.1',
+    version = '0.0.2',
     author = 'Feather CLI',
     author_email = 'me@feathererp.com',
     license = 'MIT',

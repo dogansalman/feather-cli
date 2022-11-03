@@ -23,3 +23,4 @@ def new(username, user_password, dbname, host, port):
             cursor.close()
             connection.close()
             print("PostgreSQL connection is closed")
+
